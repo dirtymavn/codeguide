@@ -1,2 +1,2 @@
-# codeguide
-Coding best practices and guidelines
+# life vest
+Project guidelines and best practices
